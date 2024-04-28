@@ -1,12 +1,12 @@
 {
 	"development": true,
 	"private": true,
-	"name": "sample-plugin",
+	"name": "Discord-bridge",
 	"version": "1.0.0",
 	"type": "module",
-	"description": "Sample plugin for SerenityJS",
+	"description": "Discord bridge plugin for SerenityJS",
 	"main": "dist/index.js",
-	"repository": "https://github.com/SerenityJS/sample-plugin.git",
+	"repository": "https://github.com/DKMtomy/discord-bridge.git",
 	"author": "SerenityJS",
 	"packageManager": "yarn@4.1.1",
 	"license": "MIT",
@@ -29,6 +29,7 @@
 		"@serenityjs/plugins": "^0.2.1",
 		"@serenityjs/protocol": "^0.2.1",
 		"@serenityjs/server-ui": "^0.2.1",
-		"@serenityjs/world": "^0.2.1"
+		"@serenityjs/world": "^0.2.1",
+		"axios": "^1.6.8"
 	}
 }
