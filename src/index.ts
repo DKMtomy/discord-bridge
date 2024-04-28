@@ -9,7 +9,7 @@ import {
 } from "./discord-bridge.js";
 
 const webhookConfig: DiscordWebhookConfig = {
-  url: "https://discord.com/api/webhooks/1234200987724546199/gjInAa85RnFOwa31LATo-M_bYYNL1Lj6vy-ErQAdeQA2CMMIboQE7L50njw8Jp3Enwc-",
+  url: "your-webhook-here",
 };
 
 // Create the DiscordBridge instance
